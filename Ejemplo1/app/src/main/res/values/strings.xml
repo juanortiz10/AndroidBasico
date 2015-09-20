@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hola">Estoy aprendiendo android</string>
+    <string name="adios">Adios</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="calc">calculadora</string>
+    <string name="hint1">numero1</string>
+    <string name="hint2">numero2</string>
+    <string name="calcular">calcular</string>
+    <string name="pantalla1">Pantalla 1</string>
+    <string name="pantalla2">Pantalla 2</string>
+    <string name="enviar">enviar</string>
+</resources>
